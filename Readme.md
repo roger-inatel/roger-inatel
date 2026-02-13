@@ -1,50 +1,32 @@
-# Roger Pereira Freitas
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=200&section=header&text=Roger%20Pereira%20Freitas&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</div>
 
-### Estudante de Engenharia de Software | Full Stack Developer  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/roger-inatel)](https://github.com/roger-inatel)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=API+Architecture+%26+Design;Backend+Engineering+Specialist;Scalable+RESTful+Integrations;Database+Modeling+%26+Optimization;Software+Engineer+in+the+making..."/>
+</p>
 
----
-
-## 👨‍💻 Sobre Mim
-Sou estudante de **Engenharia de Software** no **Inatel (2021–2026)**, apaixonado por desenvolvimento **Full Stack** e criação de soluções inteligentes. Tenho experiência prática com **React Native, Node.js, MySQL, Python e C++**.
-
----
-
-## 🚀 Habilidades Técnicas
-- **Linguagens:** C++, Python, JavaScript  
-- **Frameworks & Tools:** React Native (Expo), Node.js, Git  
-- **Banco de Dados:** MySQL, Modelagem de Dados  
-- **Outros:** Arduino, APIs REST  
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:roger.pereira@ges.inatel.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Projetos em Destaque
+## ⚡ Quick Documentation (About Me)
 
-### [LoRaCare – FETIN 2025](https://github.com/roger-inatel)
-> Monitoramento remoto com comunicação **LoRa**, backend em **Node.js**, banco de dados **MySQL** e frontend em **React Native**.  
-> Responsável por levantamento de requisitos, arquitetura do sistema, prototipagem e testes.
+```javascript
+const profile = {
+  name: "Roger Pereira Freitas",
+  role: "Backend-Focused Full Stack Developer",
+  status: "Software Engineering Student @ Inatel",
+  specialties: ["API Design", "System Integration", "Database Architecture"],
+  mindset: "Engineering > Just Coding"
+};
 
-### [Video Dubbing Software (VDS)](https://github.com/roger-inatel)
-> Software para dublagem automática de vídeos, apresentado na **FETIN**.  
-> Participação no planejamento, análise de requisitos e testes.
-
----
-
-## 💼 Experiência Profissional
-- **Tutor de C++** – Casa Viva (2022)  
-- **Monitor de Matemática e Cálculo I** – Inatel (2023)  
-- **Pesquisador IC** – Projeto Geiger-Müller (2025)
-
----
-
-## 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roger-inatel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger-inatel&layout=compact&theme=radical)
-
----
-
-### 📫 Contato
-- Email: roger.pereira@ges.inatel.br  
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [GitHub](https://github.com/roger-inatel)
+// My mission: Transform complex business logic into scalable, 
+// high-performance APIs and integrated systems.
